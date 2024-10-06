@@ -1,0 +1,9 @@
+TM_*
+.idea/
+.vscode/
+*.pyc
+__pycache__/
+*.mid
+*.json
+!example_event.json
+.venv/

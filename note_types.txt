@@ -1,0 +1,16 @@
+         // Line 1 | Put everything to the left of the //
+         // Line 2 | Text to the left of // are ignored
+GF Sing  // Line 3 | Leading and trailing whitespace
+         // Line 4 | on each line is ignored
+         // Line 5 | Blanks mean no special notes
+         // Line 6 | Lines correspond to midi channels
+         // Line 7 | <-> note colors if "Map note color to MIDI
+         // Line 8 | channel is on" in the MIDI out
+         // Line 9
+         // Line 10
+         // Line 11
+         // Line 12
+         // Line 13
+         // Line 14
+         // Line 15
+         // Line 16
