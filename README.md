@@ -31,6 +31,8 @@ signature changes). The program will reject MIDI files that violate this.
 
 #### TIME SIGNATURE CHANGES
 
+**NOTE: Time signature markers currently do not export in FL Studio if put in the playlist. They will only save by saving the piano roll. I need to figure out a workaround...**
+
 There is a proper way to handle time signatures... but we have some rules
 with the MIDI. Time signature changes are handled by time signature change markers in FL Studio.
 
@@ -78,7 +80,7 @@ of this program.
 This means the valid channels are `0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15`. Good luck
 subtracting everything by 1 all the time.
 
-**
+
 
 In FL Studio, you export MIDI files by creating
 MIDI out tracks then exporting as MIDI.
